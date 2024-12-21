@@ -70,10 +70,10 @@ Map<String, dynamic> _$TravelModeToJson(_TravelMode instance) =>
     };
 
 const _$TravelModeEnumMap = {
-  TravelMode.driving: 'DRIVING',
-  TravelMode.walking: 'WALKING',
-  TravelMode.bicycling: 'BICYCLING',
-  TravelMode.transit: 'TRANSIT',
+  TravelMode.driving: 'driving',
+  TravelMode.walking: 'walking',
+  TravelMode.bicycling: 'bicycling',
+  TravelMode.transit: 'transit',
 };
 
 _RouteType _$RouteTypeFromJson(Map<String, dynamic> json) => _RouteType(
